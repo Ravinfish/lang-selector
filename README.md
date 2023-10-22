@@ -29,7 +29,7 @@ _This is an application to help others decided what programming language you sho
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_MIT_
 
 Copyright (c) _2023_ _Ravin Fisher_
 
