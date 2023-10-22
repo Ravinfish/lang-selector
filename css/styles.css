@@ -1,6 +1,10 @@
 .hidden {
   display: none;
 }
-
-
-
+.q1 {
+  margin: 10px;
+  border: 4px solid rosybrown;
+  padding: 1%;
+  background-color: blueviolet;
+  color: antiquewhite;
+}
