@@ -27,10 +27,5 @@ _This is an application to help others decided what programming language you sho
 * _No known bugs_
 
 
-## License
-
-_MIT_
-
-Copyright (c) _2023_ _Ravin Fisher_
 
 
