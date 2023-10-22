@@ -2,6 +2,7 @@ function hideResults() {
     document.getElementById("java").setAttribute("class", "hidden");
     document.getElementById("rust").setAttribute("class", "hidden");
     document.getElementById("groovy").setAttribute("class", "hidden");
+    document.getElementById("noCode").setAttribute("class", "hidden");
   }
 
 
@@ -21,6 +22,8 @@ window.onload = function () {
       rust.removeAttribute("class");
     } else if (q1 === "spider") {
       groovy.removeAttribute("class");
+    } else if (q1 === "noPlant") {
+      noCode.removeAttribute("class");
     }
 
   });
